@@ -79,9 +79,9 @@ container > * {
   opacity: 0.8;
   text-decoration: none;
 }
-.anual-plan{
-    line-height: 20px;
-    margin-right: 72px;
+.anual-plan {
+  line-height: 20px;
+  margin-right: 72px;
 }
 button {
   width: 100%;
@@ -118,5 +118,10 @@ button {
   color: black;
 }
 
-/*footer { font-size: 11px; text-align: center; }
-    .footer a { color: hsl(228, 45%, 44%); }*/
+.footer {
+  font-size: 15px;
+  text-align: center;
+}
+.footer a {
+  color: hsl(228, 45%, 44%);
+}
